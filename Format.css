@@ -1,0 +1,58 @@
+
+
+#container {
+    width: 673px;
+    border: solid 1px black;
+    margin: 0px auto;
+}
+
+
+
+#header {
+     width: 100px; height: 100px;
+     color: #FFFFFFF;
+     background-color: #778CB3;
+}
+
+#sidePanel {
+    width: 213px; height: 372px;
+    color: #FFFFFFF; padding: 4px;
+    margin-top: 5px;
+    background-color: #778CB3;
+}
+
+#content {
+    width: 446px; float: right;
+    height: 380px;
+    margin-top: 5px;
+    background-color: #A0AFCB;
+}
+
+#footer{
+	background-color: #F7CB33;
+    padding:12px; width: 649px;
+    border-top: 5px solid #FFFFFF;
+    color: #000000; font-size: 90%;
+    text-align: center; clear: both;
+}
+
+
+#relativtsida {
+  position: relative;	
+  left: 20px;					/*test*/
+}
+
+
+#fixerad {
+    position : fixed;
+    left: 20px;
+    
+    
+}
+
+
+  /*Färger
+color: #000000; -Med hexadecimal
+
+
+color: rgb(255,0,0);   */
